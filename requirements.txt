@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyspark
+sqlalchemy
+databricks
+mlflow
+tableau-api-lib
